@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de62d716-f556-4ccb-b4d2-c7c25d2f03d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cFKpwkFStyIo4eoUdfjVzsbzDB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/asset/images" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/pages/menu_page/widget_list/widgets/p" />
+      <recent name="$PROJECT_DIR$/lib/pages/menu_page/widget_list" />
+      <recent name="$PROJECT_DIR$/lib/pages" />
+      <recent name="$PROJECT_DIR$/lib/pages/home" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/asset/images" />
+      <recent name="$PROJECT_DIR$/lib/util" />
+      <recent name="$PROJECT_DIR$/lib/pages/menu_page/widget_list/component" />
+      <recent name="$PROJECT_DIR$/lib/pages/menu_page/widget_list" />
+      <recent name="$PROJECT_DIR$/lib/pages/home/component" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" singleton="false">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de62d716-f556-4ccb-b4d2-c7c25d2f03d0" name="Default Changelist" comment="" />
+      <created>1590119087980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590119087980</updated>
+      <workItem from="1590119101468" duration="637000" />
+      <workItem from="1590127955067" duration="2108000" />
+      <workItem from="1590135421842" duration="2788000" />
+      <workItem from="1590373136274" duration="34857000" />
+      <workItem from="1590574013550" duration="602000" />
+      <workItem from="1590644766207" duration="2714000" />
+      <workItem from="1590652280095" duration="7104000" />
+      <workItem from="1590714937169" duration="10519000" />
+      <workItem from="1590974359150" duration="12057000" />
+      <workItem from="1591585066309" duration="67000" />
+      <workItem from="1592815667477" duration="3177000" />
+      <workItem from="1593503119288" duration="1338000" />
+      <workItem from="1595292881517" duration="699000" />
+      <workItem from="1603442393546" duration="559000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="641" y="449" key="Github.CreateGistDialog" timestamp="1603443029192">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="641" y="449" key="Github.CreateGistDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1603443029192" />
+    <state x="440" y="266" key="Vcs.Push.Dialog.v2" timestamp="1603443184658">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="266" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1603443184658" />
+    <state x="417" y="256" width="845" height="538" key="find.popup" timestamp="1595293179197">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="417" y="256" width="845" height="538" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1595293179197" />
+    <state x="574" y="366" key="git4idea.ui.GitUnstashDialog" timestamp="1603443120465">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="574" y="366" key="git4idea.ui.GitUnstashDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1603443120465" />
+  </component>
+</project>

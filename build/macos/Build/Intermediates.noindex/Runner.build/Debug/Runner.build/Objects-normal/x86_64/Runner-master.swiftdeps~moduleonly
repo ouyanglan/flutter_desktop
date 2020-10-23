@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "fb33de640cf8f1a7bb681bee29b18091"
+build_time: [1591002944, 481827000]
+inputs:
+  "/Users/yanglan/Documents/ylan_demo/flutter_desktop/macos/Runner/MainFlutterWindow.swift": [1586935383, 959049240]
+  "/Users/yanglan/Documents/ylan_demo/flutter_desktop/macos/Runner/AppDelegate.swift": [1586935383, 956077942]
+  "/Users/yanglan/Documents/ylan_demo/flutter_desktop/macos/Flutter/GeneratedPluginRegistrant.swift": [1591002922, 258444220]
